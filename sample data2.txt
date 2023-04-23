@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2344103-1",
+"yandex_inter":"R-M-2344103-3",
+"yandex_native":"R-M-2344103-3",
+"yandex_reward":"R-M-2344103-5",
   
 
 
@@ -32,18 +32,7 @@
 "native_network_choice":"yandex"
   
 
-},
-  "my_data":[
-  {"title":"advice mod 1","desc":"Standoff trading applications have become increasingly popular in recent years, as they offer traders the ability to execute trades with minimal risk and greater precision. The term ","photo":"https://iili.io/HeDIHge.webp"},
-  {"title":"helper pack 2","desc":"Since they allow traders to make transactions with less risk and more accuracy, standoff trading programs have grown in popularity in recent years. the word","photo":"https://iili.io/HeDI25b.jpg"},
-  {"title":"tips mod 3","desc":"standoff" refers to the act of waiting for a specific event or price movement before entering or exiting a trade.","photo":"https://iili.io/HeDI3ej.jpg"},
-  {"title":"how to use this app 4","desc":"In the context of trading applications, a standoff can be defined as a pre-set order that is placed at a specific price level, but is not executed until the market reaches that level. This means that traders can set up a trade in advance, and wait for the market to move in their desired direction before executing the trade.","photo":"https://iili.io/HeDIddu.jpg"},
-  {"title":"advance pack 5","desc":"A standoff is an order that is made in a trading application at a predetermined price level but is not executed until the market reaches that level. This implies that traders can plan a trade ahead of time and then wait for the market to move in the direction they want it to before closing the trade.","photo":"https://iili.io/HeDIFmx.jpg"},
-  {"title":"helper mod 6","desc":"A standoff is an order that is made in a trading application at a predetermined price level but is not executed until the market reaches that level. This implies that traders can plan a trade ahead of time and then wait for the market to move in the direction they want it to before closing the trade.","photo":"https://iili.io/HeDIfzQ.jpg"},
-  {"title":"tips pack 7","desc":"Using standoff trading tools offers traders the chance to reduce risk and control their market exposure, which is one of its main advantages. By putting in pre-set orders, traders can avoid being caught off guard by erratic market behavior, which can result in substantial losses.","photo":"https://iili.io/HeDIqXV.jpg"},
-  {"title":"advice mod 8","desc":"Another benefit of standoff trading applications is that they allow traders to execute trades with greater precision. By setting specific price levels at which trades will be executed, traders can ensure that they are getting the best possible price for their trades, and can avoid the slippage that can occur when entering or exiting trades manually.","photo":"https://iili.io/HeDIBLB.jpg"}
-
-   ]
+}
  
 }
    
